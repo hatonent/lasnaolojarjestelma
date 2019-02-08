@@ -1,1 +1,1 @@
-# lasnaolojarjestelma
+# läsnäolojärjestelmä
