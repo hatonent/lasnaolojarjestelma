@@ -21,7 +21,8 @@ function startAdvertisingUID() {
 }
 function stopAdvertisingUID() {
     bluetooth.stopAdvertising()
-    basic.showLeds(. . . . .
+    basic.showLeds
+       (. . . . .
         . . . . .
         . . . . .
         . . . . .
