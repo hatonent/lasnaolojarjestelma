@@ -32,8 +32,15 @@ components:
     Message:
       type: object
       properties:
+        time:
+          type: string
+          format: date-time
+          description: Aikaleima
         tags:
           type: array
           description: Havaitut läsnäolotunnisteet
           items:
             type: string
+      required:
+        - time
+        - tags
