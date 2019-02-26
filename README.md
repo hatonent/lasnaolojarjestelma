@@ -1,5 +1,5 @@
 # Läsnäolojärjestelmä 
-## microbit-BT-BEACON.hex Version 0.0.1
+## microbit-BT-BEACON.hex Version 1.0.0
 Tiedosto sisältää koodin microbitillä toetutettuun bluethooth beaconiin joka jatkuvasti lähettää bluethooth signaalia.
 ```javascript
 input.onButtonPressed(Button.B, function () {
