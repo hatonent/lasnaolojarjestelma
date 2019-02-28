@@ -33,5 +33,5 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 ## Tietokanta ER-Kaavio Version 1.0.0
-![alt text](docs/presenceDB.jpg)
+![ER-kaavio](./docs/presenceDB.jpg?raw=true "ER Kaavio")
 
