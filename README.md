@@ -32,3 +32,6 @@ input.onButtonPressed(Button.A, function () {
     startAdvertisingUID()
 })
 ```
+## Tietokanta ER-Kaavio Version 1.0.0
+![ER-kaavio](./docs/presenceDB.jpg?raw=true "ER Kaavio")
+
